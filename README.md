@@ -17,7 +17,7 @@ _We are using Threading module for make our fast and as our project uses interne
 Wikipedia is a external python module, by which we can scrap wikipedia data for any search result and we can perform many more operations using it.
 for installing  **python wikipedia module**  we have to use command :
 
-    ~pip install wikipedia~
+    pip install wikipedia
 
 ## Output Image
 <p align="center">
