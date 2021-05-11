@@ -10,12 +10,12 @@ This project is made using 3 python modules and all of them are built-in so you 
 _Tkinter is an easy-to-use python library, in which we can build GUI projects in less lines of code.
 tkinter is a build-in library so you don’t need to install it._
 
-2. **threading **
+2. **threading**
 _We are using Threading module for make our fast and as our project uses internet for working so, it also saves our project from lagging._
 
 3.  **wikipedia**
-Wikipedia is a external python module, by which we can scrap wikipedia data for any search result and we can perform many more operations using it.
-for installing  **python wikipedia module**  we have to use command :
+_Wikipedia is a external python module, by which we can scrap wikipedia data for any search result and we can perform many more operations using it.
+for installing  **python wikipedia module**  we have to use command :_
 
     pip install wikipedia
 
