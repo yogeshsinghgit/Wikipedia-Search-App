@@ -33,7 +33,7 @@ root.configure(bg='white')
  
 # test variable
 ent = StringVar()
-search_entry = Entry(root,width=30,font=("Sitka Small",12),bd=2,relief=RIDGE,textvariable=ent,justify=CENTER)
+search_entry = Entry(root,width=28,font=("Sitka Small",11),bd=2,relief=RIDGE,textvariable=ent,justify=CENTER)
 # Bind Entry Box with Enter Key
 search_entry.bind('<Return>',call_search)
 search_entry.place(x=15,y=20)
